@@ -205,16 +205,16 @@ h1
 .subtitle29
 {
     font-family: "Poppins"; 
-    font-weight: 200;
-    font-size: 23px;
+    font-weight: 100;
+    font-size: 13px;
     color: #717171;
     text-align: center;
 }
 .subtitle292
 {
     font-family: "Poppins"; 
-    font-weight: 200;
-    font-size: 23px;
+    font-weight: 100;
+    font-size: 13px;
     color: whitesmoke;
     text-align: center;
 }
@@ -330,20 +330,26 @@ img.imm {
   font-family: "Poppins"; 
   background-color : #59C25E;
   color: white;
-  padding: 22px ;
-  border-radius: 90px;
+  padding-left: 50px ;
+  padding-right: 50px ;
+  padding-top: 20px ;
+  padding-bottom: 20px ;
+  border-radius: 80px;
   border-color: #59C25E;
-  font-size: 45px;
-
+  font-size: 43px;
+  font-weight: 400;
 
 }
 
 #mybutton {
+    
+  margin: 0;
+  bottom: 1%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   position: fixed;
-  bottom: 20px;
-  width: 900px;
-  left: 20%;
-
+  white-space: nowrap;
 }
 
 .footer2 {
