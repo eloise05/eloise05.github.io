@@ -3,6 +3,15 @@
     margin: 0;
     padding: 0;
 }
+
+html {
+/* Prevent font scaling in landscape */
+-webkit-text-size-adjust: none; /*Chrome, Safari, newer versions of Opera*/
+-moz-text-size-adjust: none; /*Firefox*/
+-ms-text-size-adjust: none; /*Ie*/
+-o-text-size-adjust: none; /*old versions of Opera*/
+}
+
 .wrapper{
     width: 980px;
     margin: 0 auto 0 auto;
@@ -206,7 +215,7 @@ h1
 {
     font-family: "Poppins"; 
     font-weight: 100;
-    font-size: 13px;
+    font-size: 24px;
     color: #717171;
     text-align: center;
 }
@@ -214,7 +223,7 @@ h1
 {
     font-family: "Poppins"; 
     font-weight: 100;
-    font-size: 13px;
+    font-size: 24px;
     color: whitesmoke;
     text-align: center;
 }
