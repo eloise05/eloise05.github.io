@@ -4,14 +4,13 @@
     padding: 0;
 }
 
-html {
-/* Prevent font scaling in landscape */
--webkit-text-size-adjust: none; /*Chrome, Safari, newer versions of Opera*/
--moz-text-size-adjust: none; /*Firefox*/
--ms-text-size-adjust: none; /*Ie*/
--o-text-size-adjust: none; /*old versions of Opera*/
-}
+display: inline-block
 
+html {
+	-webkit-text-size-adjust: none;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: none;
+}
 .wrapper{
     width: 980px;
     margin: 0 auto 0 auto;
@@ -138,14 +137,6 @@ h1
    
 }
 
-.myVideo2
-{   
-    margin-left: 200px;
-    margin-right: 200px;
-    text-align: center;
-   
-}
-
 
 .section2
 {  
@@ -153,23 +144,6 @@ h1
     margin-right: 200px;
     margin-top: 0px;
     text-align: justify;
-}
-
-.interns
-{
-  list-style: none;
-}
-.section3
-{
-  font-size: 15px;    
-  font-family: "Roboto", sans-serif;    
-  color: black;
-  border: 1px solid white;
-  background-color: white;
- 
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
 }
 
 .myname
@@ -188,13 +162,6 @@ h1
     color: black;
 }
 
-.subtitle-t1
-{
-    font-family: "Poppins"; 
-    font-weight: 700;
-    font-size: 27px;
-    color: #FB9F9F;
-}
 .subtitle
 {
     font-family: "Poppins"; 
@@ -215,7 +182,7 @@ h1
 {
     font-family: "Poppins"; 
     font-weight: 100;
-    font-size: 24px;
+    font-size: 17px;
     color: #717171;
     text-align: center;
 }
@@ -223,7 +190,7 @@ h1
 {
     font-family: "Poppins"; 
     font-weight: 100;
-    font-size: 24px;
+    font-size: 17px;
     color: whitesmoke;
     text-align: center;
 }
