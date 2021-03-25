@@ -102,14 +102,14 @@ h1
 {
     font-family: "Poppins"; 
     font-weight: 600;
-    font-size: 20px;
+    font-size: 17px;
     color: black;
 }
 .subtitle-99
 {
     font-family: "Poppins"; 
     font-weight: 700;
-    font-size: 60px;
+    font-size: 45px;
     color: #59C25E;
 }
 
@@ -145,7 +145,7 @@ h1
 {
     font-family: "Poppins"; 
     font-weight: 600;
-    font-size: 24px;
+    font-size: 22px;
     color: black;
    text-align: center;
 
@@ -154,7 +154,7 @@ h1
 {
     font-family: "Poppins"; 
     font-weight: 600;
-    font-size: 24px;
+    font-size: 22px;
     color: white;
    text-align: center;
 
@@ -248,16 +248,17 @@ img.imm {
 
 .feedback {
   font-family: "Poppins"; 
-  background-color : #59C25E;
-  color: white;
+  background-color :#AEF255;
+  color: white ;
   padding-left: 50px ;
   padding-right: 50px ;
   padding-top: 10px ;
   padding-bottom: 10px ;
   border-radius: 80px;
-  border-color: #59C25E;
+    border-color: #AEF255;
   font-size: 17px;
   font-weight: 400;
+ 
 
 }
 
@@ -280,6 +281,6 @@ img.imm {
    bottom: 0;
    width: 100%;
    background-color: yellow;
-   color: white;
+   color:#59C25E;
    text-align: center;
 }
