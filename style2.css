@@ -12,13 +12,13 @@ html {
 	-ms-text-size-adjust: none;
 }
 .wrapper{
-    width: 980px;
+    max-width: 980px;
     margin: 0 auto 0 auto;
     
    
 }
 .wrapper2{
-    width: 980px;
+    max-width: 980px;
     margin: 0 auto 0 auto;
     background-color: #59C25E;
    
@@ -47,76 +47,12 @@ header
     
 }
 
-.main-nav
-{
-    float: right;
-    list-style: none;
-    margin-top: 25px;
-    text-align: center;
-    margin-right: 180px;
-  
-}
-
-.main-nav li
-{
-    display: inline-block;
-    
-}
-
-.main-nav li a
-{
-    color:black;
-    text-decoration: none;
-    padding: 5px 20px;
-    font-family: "Poppins", sans-serif;
-    font-size: 15px;
-}
-
-
-.main-nav li a:hover 
-{ 
-
-    color: #BF1C2D;
-}
-
-.logo img
-{
-    width: 60px;
-    height: auto;
-    float: left;
-    list-style: none;
-  
-
-    
-}
 
 body
 {
     font-family: monospace;
 }
 
-.img_c {
-	float: left;
-	width: 50%;
-	padding: 5px;
-}
-
-#selec
-{
-    font-family: "Roboto", sans-serif;
-    text-align: center;
-    font-size: 20px;
-}
-
-.hero
-{
-    font-family: "Roboto", sans-serif;
-    position: absolute;
-    width: 1200px;
-    margin-left: 0px;
-    margin-top: 0px;
-    
-}
 
 h1
 {
@@ -165,15 +101,15 @@ h1
 .subtitle
 {
     font-family: "Poppins"; 
-    font-weight: 700;
-    font-size: 30px;
+    font-weight: 600;
+    font-size: 20px;
     color: black;
 }
 .subtitle-99
 {
     font-family: "Poppins"; 
     font-weight: 700;
-    font-size: 100px;
+    font-size: 60px;
     color: #59C25E;
 }
 
@@ -195,13 +131,21 @@ h1
     text-align: center;
 }
 
+.subtitle28
+{
+    font-family: "Poppins"; 
+    font-weight: 100;
+    font-size: 15px;
+    color: #717171;
+    text-align: center;
+}
 
          
 .subtitle40
 {
     font-family: "Poppins"; 
-    font-weight: 700;
-    font-size: 33px;
+    font-weight: 600;
+    font-size: 24px;
     color: black;
    text-align: center;
 
@@ -209,8 +153,8 @@ h1
 .subtitle402
 {
     font-family: "Poppins"; 
-    font-weight: 700;
-    font-size: 33px;
+    font-weight: 600;
+    font-size: 24px;
     color: white;
    text-align: center;
 
@@ -308,11 +252,11 @@ img.imm {
   color: white;
   padding-left: 50px ;
   padding-right: 50px ;
-  padding-top: 20px ;
-  padding-bottom: 20px ;
+  padding-top: 10px ;
+  padding-bottom: 10px ;
   border-radius: 80px;
   border-color: #59C25E;
-  font-size: 43px;
+  font-size: 17px;
   font-weight: 400;
 
 }
@@ -320,7 +264,7 @@ img.imm {
 #mybutton {
     
   margin: 0;
-  bottom: 1%;
+  bottom: 0.1%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
