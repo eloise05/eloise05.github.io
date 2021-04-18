@@ -23,6 +23,7 @@ header
 
     
 }
+
 #topButton {position: fixed; right: 7%; bottom: 50px; display: none; z-index: 999;}
 
 #myBtn {
@@ -287,6 +288,15 @@ h1
     font-family: "Poppins"; 
     font-weight: 250;
     font-size: 17px;
+    color: black;
+  
+}
+
+.subtitle55
+{
+    font-family: "inter"; 
+    font-weight: 250;
+    font-size: 15px;
     color: black;
   
 }
