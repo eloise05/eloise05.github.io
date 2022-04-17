@@ -1,0 +1,354 @@
+/* screen - home */
+
+.home {
+  background-color: var(--mirage);
+  height: 2232px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.home .rebekah-lim-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 65px;
+  width: 192px;
+}
+
+.home .empower-people-by-de-C61RwL {
+  background-color: transparent;
+  color: #99387d;
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-xl);
+  font-style: italic;
+  font-weight: 700;
+  height: auto;
+  left: 220px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 506px;
+  width: 1011px;
+}
+
+.home .currently-a-master-s-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 220px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 548px;
+  width: 1035px;
+}
+
+.home .copyright-2022-rebekah-lim-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 210px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 2168px;
+  width: 718px;
+}
+
+.home .work-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 929px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  width: 100px;
+}
+
+.home .about-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1037px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+
+.home .about-C61RwL:hover {
+  color: #9148B1
+}
+
+.home .resume-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1145px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 65px;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+
+.home .resume-C61RwL:hover {
+  color: #9148B1
+}
+
+.home .rectangle-1-C61RwL {
+  background-color: #9148b1;
+  border-radius: 10px;
+  height: 5px;
+  left: 950px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 97px;
+  width: 58px;
+}
+
+.home .group-232-C61RwL {
+  background-color: transparent;
+  height: 280px;
+  left: 250px;
+  position: absolute;
+  top: 150px;
+  width: 1150px;
+}
+
+.home .group-244-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 357px;
+  left: 22px;
+  pointer-events: auto;
+  position: absolute;
+  top: 135px;
+  transition: all 0.2s ease;
+  width: 1440px;
+}
+
+.home .group-244-C61RwL:hover {
+  filter: blur(300px);
+}
+
+.home .group-229-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 391px;
+  left: 185px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1348px;
+  transition: all 0.2s ease;
+  width: 1073px;
+}
+
+.home .group-229-C61RwL:hover {
+  transform: scale(1.1);
+}
+
+.home .kakao-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 341px;
+  left: 147px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1746px;
+  transition: all 0.2s ease;
+  width: 1095px;
+}
+
+.home .kakao-C61RwL:hover {
+  filter: blur(10px);
+}
+
+.home .rectangle-6-1Jxou5 {
+  background-color: #bcbbb6;
+  border-radius: 25.7px;
+  height: 341px;
+  left: 64px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1023px;
+}
+
+.home .image-2-1Jxou5 {
+  background-color: transparent;
+  height: 185px;
+  left: 896px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 146px;
+  width: 185px;
+}
+
+.home .improving-search-ux-of-kakao-1Jxou5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 106px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 116px;
+  width: 798px;
+}
+
+.home .rectangle-769-1Jxou5 {
+  background-color: var(--mirage);
+  border: 1px solid var(--black);
+  border-radius: 10px;
+  height: 25px;
+  left: 106px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 130px;
+}
+
+.home .operation-b2-b-1Jxou5 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 118px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 46px;
+  width: 615px;
+}
+
+.home .rectangle-770-1Jxou5 {
+  background-color: var(--mirage);
+  border: 1px solid var(--black);
+  border-radius: 10px;
+  height: 25px;
+  left: 242px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43px;
+  width: 130px;
+}
+
+.home .coming-soon-1Jxou5 {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  top: 46px;
+  width: 615px;
+}
+
+.home .search-ux-intern-1Jxou5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-cabin);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 108px;
+  letter-spacing: 0.00px;
+  line-height: 11px;
+  mix-blend-mode: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-align: left;
+  top: 201px;
+  white-space: nowrap;
+  width: 931px;
+}
+
+.home .sojunghangul-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 341px;
+  left: 211px;
+  pointer-events: auto;
+  position: absolute;
+  top: 616px;
+  transition: all 0.3s ease;
+  width: 1020px;
+}
+
+.home .sojunghangul-C61RwL:hover {
+  transform: scale(1.1);
+}
+
+.home .group-207-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 341px;
+  left: 213px;
+  pointer-events: auto;
+  position: absolute;
+  top: 992px;
+  transition: all 0.3s ease;
+  width: 1021px;
+}
+
+.home .group-207-C61RwL:hover {
+  transform: scale(1.05);
+}

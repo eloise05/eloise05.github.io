@@ -1,0 +1,22 @@
+:root { 
+  --black: #000000;
+  --mirage: #101725;
+  --white: #ffffff;
+ 
+  --font-size-l: 25px;
+  --font-size-m: 20px;
+  --font-size-s: 18px;
+  --font-size-xl: 30px;
+  --font-size-xs: 15px;
+  --font-size-xxs: 14px;
+ 
+  --font-family-avenir-medium: "Avenir-Medium", Helvetica;
+  --font-family-cabin: "Cabin", Helvetica;
+}
+.avenir-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}

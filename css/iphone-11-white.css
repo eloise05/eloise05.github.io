@@ -1,0 +1,30 @@
+/* screen - iphone-11-white */
+
+.iphone-11-white {
+  background-color: transparent;
+  height: 120px;
+  mix-blend-mode: normal;
+  overflow-x: hidden;
+  position: relative;
+  width: 239px;
+}
+
+.iphone-11-white .device-C61RwL {
+  background-color: transparent;
+  height: 237px;
+  left: -59px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 59px;
+  width: 120px;
+}
+
+.iphone-11-white .screen-C61RwL {
+  background-color: transparent;
+  height: 220px;
+  left: -50px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 68px;
+  width: 101px;
+}
