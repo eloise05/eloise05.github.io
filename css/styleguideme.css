@@ -1,0 +1,84 @@
+:root { 
+  --black: #000000;
+  --mirage: #101725;
+  --purple-plum: #9148b1;
+  --white: #ffffff;
+ 
+  --font-size-l2: 20px;
+  --font-size-m2: 18px;
+  --font-size-s2: 15px;
+  --font-size-xl2: 25px;
+  --font-size-xs: 10px;
+  --font-size-xxl: 30px;
+  --font-size-xxxl: 60px;
+ 
+  --font-family-avenir-black: "Avenir-Black", Helvetica;
+  --font-family-avenir-heavy: "Avenir-Heavy", Helvetica;
+  --font-family-avenir-medium: "Avenir-Medium", Helvetica;
+  --font-family-avenir-regular: "Avenir-Regular", Helvetica;
+  --font-family-avenir_next-bold: "Avenir Next-Bold", Helvetica;
+  --font-family-avenir_next-medium: "Avenir Next-Medium", Helvetica;
+}
+.avenir-regular-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-avenir-regular);
+  font-size: var(--font-size-m2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenir-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenirnext-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-avenir_next-bold);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenir-heavy-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-avenir-heavy);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.avenirnext-bold-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-avenir_next-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.avenir-medium-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenirnext-medium-white-60px {
+  color: var(--white);
+  font-family: var(--font-family-avenir_next-medium);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.avenir-medium-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-avenir-medium);
+  font-size: var(--font-size-s2);
+  font-style: normal;
+  font-weight: 500;
+}
