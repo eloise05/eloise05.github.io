@@ -2649,7 +2649,7 @@ transform: translate(0,0);
 .forestin .sojunghangul-2P4qUJ {
   --z-index: 64;
   background-color: transparent;
-  background-image: url(../img/sojunghangul-4@1.5x.png);
+/*   background-image: url(../img/sojunghangul-4@1.5x.png); */
   background-size: 100% 100%;
   color: #ffffff;
   font-family: 'Avenir-Heavy', Helvetica;
