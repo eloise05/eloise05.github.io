@@ -173,7 +173,7 @@
   left: 185px;
   pointer-events: auto;
   position: absolute;
-  top: 1348px;
+  top: 1348px;  
   transition: all 0.2s ease;
   width: 1073px;
 }
@@ -189,9 +189,9 @@
   left: 147px;
   pointer-events: auto;
   position: absolute;
-  top: 1746px;
+  top: 616px;
   transition: all 0.2s ease;
-  width: 1095px;
+  width: 1020px;
 }
 
 .home .kakao-C61RwL:hover {
@@ -328,7 +328,7 @@
   left: 211px;
   pointer-events: auto;
   position: absolute;
-  top: 616px;
+  top: 992px;
   transition: all 0.3s ease;
   width: 1020px;
 }
@@ -344,7 +344,7 @@
   left: 213px;
   pointer-events: auto;
   position: absolute;
-  top: 992px;
+  top: 1746px;
   transition: all 0.3s ease;
   width: 1021px;
 }
